@@ -293,8 +293,8 @@ assignments = {
       "title": "Homework 8 (Electronic)",
       "course": "CS 188",
       "dueDate": "2022-11-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2393879/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419636/assignments/2393879/submissions/146330469",
+      "submitted": true
     },
     {
       "title": "Homework 8 (Written)",
@@ -362,11 +362,39 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Project 2B (Dev Branch)",
+      "course": "CS 61C",
+      "dueDate": "2022-01-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/423760",
+      "submitted": false
+    },
+    {
       "title": "Lab 5",
       "course": "CS 61C",
       "dueDate": "2022-10-07T23:59:00",
       "link": "https://www.gradescope.com/courses/423760/assignments/2311452/submissions/139127970",
       "submitted": true
+    },
+    {
+      "title": "Midterm Q2 (Dev)",
+      "course": "CS 61C",
+      "dueDate": "2022-01-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/423760",
+      "submitted": false
+    },
+    {
+      "title": "Midterm Q3 (Dev)",
+      "course": "CS 61C",
+      "dueDate": "2022-01-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/423760",
+      "submitted": false
+    },
+    {
+      "title": "Midterm Q1 (Dev)",
+      "course": "CS 61C",
+      "dueDate": "2022-01-01T00:00:00",
+      "link": "https://www.gradescope.com/courses/423760",
+      "submitted": false
     },
     {
       "title": "Lab 6",
@@ -421,8 +449,8 @@ assignments = {
       "title": "Lab 8",
       "course": "CS 61C",
       "dueDate": "2022-11-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/423760",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423760/assignments/2394955/submissions/146325392",
+      "submitted": true
     }
   ]
 };
