@@ -300,8 +300,8 @@ assignments = {
       "title": "Homework 8 (Written)",
       "course": "CS 188",
       "dueDate": "2022-11-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419636/assignments/2393880/submissions/146617691",
+      "submitted": true
     },
     {
       "title": "Homework 9 (Electronic)",
@@ -437,6 +437,13 @@ assignments = {
       "dueDate": "2022-11-04T23:59:00",
       "link": "https://www.gradescope.com/courses/423760/assignments/2394955/submissions/146325392",
       "submitted": true
+    },
+    {
+      "title": "Lab 9",
+      "course": "CS 61C",
+      "dueDate": "2022-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/423760",
+      "submitted": false
     }
   ]
 };
