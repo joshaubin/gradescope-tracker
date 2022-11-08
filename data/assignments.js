@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2022-10-21T18:00:00",
       "link": "https://www.gradescope.com/courses/423476",
       "submitted": false
+    },
+    {
+      "title": "Lab Set 2 (Labs add to a maximum of 15 POINTS - Not all points required)",
+      "course": "Astro C10 Fall 2022",
+      "dueDate": "2022-11-14T18:00:00",
+      "link": "https://www.gradescope.com/courses/423476",
+      "submitted": false
     }
   ],
   "CS 188": [
