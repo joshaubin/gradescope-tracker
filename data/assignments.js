@@ -78,6 +78,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 11",
+      "course": "Astro C10 Fall 2022",
+      "dueDate": "2022-12-02T18:00:00",
+      "link": "https://www.gradescope.com/courses/423476",
+      "submitted": false
+    },
+    {
       "title": "Lab Set 1 (Labs add to a maximum of 15 POINTS - Not all points required)",
       "course": "Astro C10 Fall 2022",
       "dueDate": "2022-10-21T18:00:00",
@@ -470,8 +477,8 @@ assignments = {
       "title": "Lab 10",
       "course": "CS 61C",
       "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/423760",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423760/assignments/2433519/submissions/149932093",
+      "submitted": true
     },
     {
       "title": "Project 4",
