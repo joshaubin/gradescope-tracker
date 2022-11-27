@@ -342,8 +342,8 @@ assignments = {
       "title": "[Optional] Project 5 Cheatsheet",
       "course": "CS 188",
       "dueDate": "2022-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/419636/assignments/2424137/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/419636/assignments/2424137/submissions/150928996",
+      "submitted": true
     }
   ],
   "CS 61C": [
