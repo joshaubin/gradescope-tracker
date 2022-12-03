@@ -80,7 +80,7 @@ assignments = {
     {
       "title": "Homework 11",
       "course": "Astro C10 Fall 2022",
-      "dueDate": "2022-12-02T18:00:00",
+      "dueDate": "2022-12-03T18:00:00",
       "link": "https://www.gradescope.com/courses/423476",
       "submitted": false
     },
