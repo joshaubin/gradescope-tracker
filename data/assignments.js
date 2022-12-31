@@ -241,7 +241,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Midterm (Remote)",
+      "title": "Midterm (Online)",
       "course": "CS 188",
       "dueDate": "2022-10-12T21:12:00",
       "link": "https://www.gradescope.com/courses/419636",
@@ -430,7 +430,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Online Final Exam",
+      "title": "Final Exam (Online)",
       "course": "CS 188",
       "dueDate": "2022-12-15T14:40:00",
       "link": "https://www.gradescope.com/courses/419636",
