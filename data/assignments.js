@@ -81,8 +81,8 @@ assignments = {
       "title": "Mid Semester Feedback",
       "course": "CS 170",
       "dueDate": "2023-03-18T01:00:00",
-      "link": "https://www.gradescope.com/courses/496331",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/496331/assignments/2737471/submissions/168359195",
+      "submitted": true
     }
   ],
   "CS 184/284A": [
