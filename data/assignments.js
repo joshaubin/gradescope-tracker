@@ -83,6 +83,13 @@ assignments = {
       "dueDate": "2023-03-18T01:00:00",
       "link": "https://www.gradescope.com/courses/496331/assignments/2737471/submissions/168359195",
       "submitted": true
+    },
+    {
+      "title": "Homework 8 Written Portion",
+      "course": "CS 170",
+      "dueDate": "2023-03-21T22:00:00",
+      "link": "https://www.gradescope.com/courses/496331",
+      "submitted": false
     }
   ],
   "CS 184/284A": [
