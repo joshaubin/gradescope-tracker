@@ -97,6 +97,13 @@ assignments = {
       "dueDate": "2023-03-22T22:00:00",
       "link": "https://www.gradescope.com/courses/496331",
       "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "CS 170",
+      "dueDate": "2023-04-12T22:00:00",
+      "link": "https://www.gradescope.com/courses/496331",
+      "submitted": false
     }
   ],
   "CS 184/284A": [
