@@ -104,6 +104,13 @@ assignments = {
       "dueDate": "2023-04-12T22:00:00",
       "link": "https://www.gradescope.com/courses/496331",
       "submitted": false
+    },
+    {
+      "title": "HW 11 Coding Portion",
+      "course": "CS 170",
+      "dueDate": "2023-04-17T22:00:00",
+      "link": "https://www.gradescope.com/courses/496331",
+      "submitted": false
     }
   ],
   "CS 184/284A": [
