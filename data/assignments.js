@@ -188,8 +188,8 @@ assignments = {
       "title": "Project 4: ClothSim",
       "course": "CS 184/284A",
       "dueDate": "2023-04-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/483806",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/483806/assignments/2691651/submissions/175334578",
+      "submitted": true
     },
     {
       "title": "Exam 1",
