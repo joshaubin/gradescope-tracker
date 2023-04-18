@@ -106,7 +106,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW 11 Coding Portion",
+      "title": "Homework 11 Coding Portion",
       "course": "CS 170",
       "dueDate": "2023-04-19T22:00:00",
       "link": "https://www.gradescope.com/courses/496331/assignments/2812993/submissions/175355942",
@@ -116,6 +116,13 @@ assignments = {
       "title": "Homework 11 Written Portion",
       "course": "CS 170",
       "dueDate": "2023-04-19T22:00:00",
+      "link": "https://www.gradescope.com/courses/496331",
+      "submitted": false
+    },
+    {
+      "title": "Homework 12 Written Portion",
+      "course": "CS 170",
+      "dueDate": "2023-04-24T22:00:00",
       "link": "https://www.gradescope.com/courses/496331",
       "submitted": false
     }
