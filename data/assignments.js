@@ -130,8 +130,8 @@ assignments = {
       "title": "Homework 12 Coding Portion",
       "course": "CS 170",
       "dueDate": "2023-04-25T00:00:00",
-      "link": "https://www.gradescope.com/courses/496331",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/496331/assignments/2833622/submissions/176950409",
+      "submitted": true
     }
   ],
   "CS 184/284A": [
