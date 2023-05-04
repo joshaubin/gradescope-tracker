@@ -137,8 +137,8 @@ assignments = {
       "title": "Homework 13",
       "course": "CS 170",
       "dueDate": "2023-05-03T22:00:00",
-      "link": "https://www.gradescope.com/courses/496331",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/496331/assignments/2851106/submissions/179056745",
+      "submitted": true
     }
   ],
   "CS 184/284A": [
